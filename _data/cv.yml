@@ -1,0 +1,118 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Somnath Banerjee
+    # - name: Date of Birth
+    #   value: 21st Feb 1993
+    - name: Languages
+      value: Bengali, Hindi, English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD (Computer science and engineering)
+      institution: Indian Institute of Technology, Kharagpur
+      year: 2021 - Till
+      description:
+        - Explainable AI
+        - Large Language Model
+        - Natural Language Processing
+        - Graph learning
+
+    - title: Master of Technology (Computer science and engineering)
+      institution: Indian Institute of Technology (Indian School of Mines), Dhanbad
+      year: 2016 - 2018
+      description:
+        - <i>Random Forest boosted CNN- An empirical technique for plant classification</i>
+
+- title: Experience as Research Scientist
+  type: time_table
+  contents:
+    - title: Software engineer technical leader
+      institution: Cisco Systems
+      year: 2023 - Till
+      description:
+        - Large Language Model Development
+        - Network Document Summarization System
+        - Custom Chatbot Development
+        - Fine-Tuning LLMs
+        - Cloud Infrastructure for Model Deployment
+        - End-to-End NLP Pipelines
+    - title: Software development engineer expert 
+      institution: Fujitsu
+      year: 2020 - 2023
+      description:
+        - Document Classification System
+        - Custom NER Models
+        - Fine-Tuned Transformer Models
+
+- title: Experience as Consultant
+  type: time_table
+  contents:
+    - title: Software engineer technical leader
+      institution: Cisco Systems
+      year: 2023 - Till
+      description:
+        - Transfering MNIS to ServiceNOW [ITBM, Portal]
+    - title: Software development engineer expert 
+      institution: Fujitsu
+      year: 2020 - 2023
+      description:
+        - Leading Team for Telco Project [ITSM, ITOM, ITBM, Portal]
+    - title: Senior software consultant
+      institution: Cognizant
+      year: 2016 - 2020
+      description:
+        - Leading Team for Mining Project [ITSM, HAM, SAM, Portal]
+    - title: Software engineer
+      institution: IBM
+      year: 2014 - 2016
+      description:
+        - Active member for Banking Project [ITSM]
+
+- title: Awards and grants
+  type: time_table
+  contents:
+    - title: Microsoft Academic Partnership Grant (MAPG)
+      year: 2024
+      description: Received the prestigious Microsoft Academic Partnership Grant (MAPG) 2024 in collaboration with Prof. Animesh Mukherjee from IIT Kharagpur. Our proposal <i>SafeInfer</i> is among just six selected across India.
+    - title: PaliGemma Academic Program
+      year: 2024
+      description: Received the prestigious PaliGemma Academic Program GCP Credit Award from Google.
+
+    - title: University Gold Medal
+      year: 2019
+      description: Academic distinction in masters program with gold medal.
+
+    - title: First in Quiz Competition in ETV Bangla(In state WB)
+      year: 2009
+      description: Secured first place in the quiz competition organized by ETV Bangla among all schools in the state.
+
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

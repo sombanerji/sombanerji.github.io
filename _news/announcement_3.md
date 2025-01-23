@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 <div class="alert alert-info" role="alert">
-<b>New paper released!</b> 🎊 "Navigating the Cultural Kaleidoscope: A Hitchhiker's Guide to Sensitivity in Large Language Models" 
+🎉 Paper accepted at <b>EMNLP 2024 Industry Track</b>! 🎯 "Context Matters: Pushing the Boundaries of Open-Ended Answer Generation with Graph-Structured Knowledge Context" 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
 </div>

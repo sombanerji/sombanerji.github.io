@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Research Scholar @IIT Kharagpur (CNeRG Group)</b> <br>
+subtitle: <b>PhD, Computer Science and Engineering, IIT Kharagpur</b><br>
           <b>Software Engineer Technical Leader @Cisco Systems, Inc.</b>
 
 profile:

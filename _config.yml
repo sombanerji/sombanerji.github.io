@@ -5,7 +5,16 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Som
 middle_name: 
-last_name: Banerji(ee)
+last_name: Banerjee
+contact_note: >
+  Let's connect and collaborate to make something extraordinary together!---------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+
+title: blank # the website title (if blank, full name will be used instead)
+first_name: Som
+middle_name: 
+last_name: Banerjee
 contact_note: >
   Let’s connect and collaborate to make something extraordinary together!
 # description: > # the ">" symbol means to ignore newlines until "footer_text:"

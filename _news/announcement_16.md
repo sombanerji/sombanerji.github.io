@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 <div class="alert alert-primary" role="alert">
-<b>Presentation:</b> Six papers selected for the <b>Global South Research & Posters Showcase</b> at the Research Symposium on AI and its Impact, Bharat Mandapam, New Delhi, as part of the <a href="https://impact.indiaai.gov.in/">India AI Impact Summit 2026</a>.
+<b>Presentation:</b> Six papers selected for the <b>Global South Research & Posters Showcase</b>, <b>a Govt. of India Initiative</b> at the Research Symposium on AI and its Impact, Bharat Mandapam, New Delhi, as part of the <a href="https://impact.indiaai.gov.in/">India AI Impact Summit 2026</a>.
 </div>
